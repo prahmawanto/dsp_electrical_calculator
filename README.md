@@ -19,4 +19,4 @@ A comprehensive Python-based calculator for electrical engineering calculations,
 1. Ensure you have Python 3.8+ installed
 2. Clone this repository:
    ```bash
-   git clone https://github.com/prahmawanto/electrical-calculator.git
+   git clone https://github.com/prahmawanto/dsp_electrical_calculator.git
